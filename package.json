@@ -1,0 +1,22 @@
+{
+  "name": "github-basics-averageanarchist32",
+  "version": "1.0.0",
+  "description": "Node Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Canberra-Grammar-School/github-basics-AverageAnarchist32.git"
+  },
+  "keywords": [
+    "javascipt"
+  ],
+  "author": "ZK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Canberra-Grammar-School/github-basics-AverageAnarchist32/issues"
+  },
+  "homepage": "https://github.com/Canberra-Grammar-School/github-basics-AverageAnarchist32#readme"
+}
